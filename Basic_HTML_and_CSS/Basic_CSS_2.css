@@ -1,0 +1,9 @@
+p {
+  color: blue;
+  background-color: lightyellow;
+  font-size: 18px;
+  text-align: center;
+}
+h2 {
+  text-shadow: 2px 2px 4px gray;
+}
